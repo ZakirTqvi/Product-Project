@@ -3,7 +3,7 @@ import { Route, Routes } from "react-router-dom";
 
 import CreatePage from "./pages/CreatePage";
 import HomePage from "./pages/HomePage";
-import Navbar from "./componetns/Navbar"
+import Navbar from "./components/Navbar"
 
 function App() {
   return (
